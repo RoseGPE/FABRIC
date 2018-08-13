@@ -1,4 +1,4 @@
-![FABRIC][https://github.com/RoseGPE/FABRIC/raw/master/logo.png]
+![FABRIC](https://github.com/RoseGPE/FABRIC/raw/master/logo.png)
 
 FABRIC - FABRication Information Consortium
 
@@ -51,7 +51,7 @@ Three main screens:
 - Part view (also includes all processes)
 - Worklist (the processes relevant to a user)
 Auxillary screens like logins, password changes, account creation may be necessary...
-![UI Proposal][https://github.com/RoseGPE/FABRIC/raw/master/ui_proposal.jpg]
+![UI Proposal](https://github.com/RoseGPE/FABRIC/raw/master/ui_proposal.jpg)
 
 
 ### Other Features
